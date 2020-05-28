@@ -1,2 +1,4 @@
-# data-science-cheatsheet
-My notes for learning Data Science
+# My Data Science Journey
+
+## Learn Statistics
+
