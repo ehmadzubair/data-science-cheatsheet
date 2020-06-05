@@ -2,4 +2,9 @@
 
 ## Learn Statistics
 
-### Seaborn Plot (https://seaborn.pydata.org/)
+### Dr. Abhinanda Sarkar's lectures
+https://www.youtube.com/watch?v=Vfo5le26IhY
+
+## Udacity Nanodegree
+- CRISP-DM
+
